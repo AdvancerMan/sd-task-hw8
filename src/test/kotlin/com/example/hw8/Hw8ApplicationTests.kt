@@ -8,6 +8,6 @@ class Hw8ApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		// no operations
 	}
-
 }
